@@ -1,0 +1,16 @@
+.App {
+  margin: 3em auto;
+  max-width: 50em;
+}
+
+.App h1 {
+  text-align: center;
+}
+
+
+/* Estilos personalizados */
+h1 {margin-bottom: 20px;}
+ul{margin: 0;padding: 0;}
+ul li{ list-style: none; margin-bottom: 20px;}
+.active {font-weight: bold;}
+.fila {margin-top: 20px;}
